@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FileSystemManager.Core/FileSystemManager.Core.csproj" />
+    <Project Path="src/FileSystemManager.Cli/FileSystemManager.Cli.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FileSystemManager.Tests/FileSystemManager.Tests.csproj" />
+  </Folder>
+</Solution>
